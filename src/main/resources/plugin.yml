@@ -1,0 +1,4 @@
+name: lobby
+main: de.dermacuser.lobby.Plugin
+version: 1
+api-version: 1.19
